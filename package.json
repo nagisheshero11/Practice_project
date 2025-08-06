@@ -1,7 +1,7 @@
 {
   "name": "myapp",
   "version": "0.1.0",
-  "homepage": "/myapp/",
+  "homepage": "https://nagisheshero.github.io/myapp",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
